@@ -1,4 +1,4 @@
-class hhehehe{
+class shhhhhhhhh{
     Person per=new Person();
 }
 public class Person{
